@@ -1,6 +1,6 @@
 # Prework-Study-Guide Webpage
 
-## A study guide to use for boot camp students to study basic frontend topics. This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+## A study guide for boot camp students to use to study basic frontend topics. This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
